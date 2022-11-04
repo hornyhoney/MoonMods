@@ -5,3 +5,5 @@ How to use:
 3) Download The Mods And Extract Them
 4) Put The Extracted Mods Folders In The 3dmigoto > Mods Folder
 5) Run 3dmigoto.exe And Then Run Genshin Impact
+
+Switch Mods: You can switch through the mods without having to put them individually. basically, put the mod folder inside 3dmigoto and press "x" to switch through mods
